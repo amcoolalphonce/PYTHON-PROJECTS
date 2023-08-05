@@ -1,5 +1,4 @@
-num = 4
-
+num = int(input("Enter a number : "))
 def factorial(n):
     if n==0 or n==1:
         return 1
