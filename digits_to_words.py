@@ -13,3 +13,8 @@ digits_dictionary={
     "9":"Nine",
     "0":"Zero"
 }
+output=""
+for y in phone_no:
+    output+=digits_dictionary.get(y, "!!!!")+" "#"!!!" default in case user introduces other characters
+print(output)
+    
