@@ -30,3 +30,6 @@ while True:
 
     if choice =="1":
         display_tasks()
+    elif choice == "2":
+        task = input("Enter the task:")
+        add_task(task)
