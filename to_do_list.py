@@ -33,3 +33,7 @@ while True:
     elif choice == "2":
         task = input("Enter the task:")
         add_task(task)
+    elif choice == "3":
+        display_tasks()
+        task_index = int(input("Enter the task index to remove  "))   
+        remove_task(task_index) 
