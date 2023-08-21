@@ -25,3 +25,8 @@ while True:
     print("2. Add task")
     print("3. Remove task")
     print("4. Quit")
+
+    choice = input("Enter your choice: ")
+
+    if choice =="1":
+        display_tasks()
