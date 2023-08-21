@@ -41,4 +41,4 @@ while True:
         print("Exiting")
         break
     else:
-        print("Invalid")
+        print("Invalid Choice . Please select a valid option")
