@@ -37,3 +37,8 @@ while True:
         display_tasks()
         task_index = int(input("Enter the task index to remove  "))   
         remove_task(task_index) 
+    elif choice == "4":
+        print("Exiting")
+        break
+    else:
+        print("Invalid")
