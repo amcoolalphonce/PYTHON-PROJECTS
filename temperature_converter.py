@@ -9,8 +9,9 @@ def celsius_to_fahrenheit(celsius):
 temperature_C = 10
 temperature_F = 17
 
-converted_to_degrees = fahrenheit_to_celsius(temperature_C)
+converted_to_celsius = fahrenheit_to_celsius(temperature_C)
 converted_to_fahrenheit = celsius_to_fahrenheit(temperature_F)
 
 
 print(f"{temperature_F} degrees Fahrenheit is {converted_to_celsius:.2f} degrees Celsius.")
+print(f"{temperature_C} degrees Celsius is {converted_to_fahrenheit:.2f} degrees Fahrenheit.")
