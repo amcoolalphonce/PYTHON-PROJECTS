@@ -10,3 +10,4 @@ temperature_C = 10
 temperature_F = 17
 
 converted_to_degrees = fahrenheit_to_celsius(temperature_C)
+converted_to_fahrenheit = celsius_to_fahrenheit(temperature_F)
