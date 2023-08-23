@@ -28,4 +28,4 @@ def main():
         print("Invalid choice. Please enter 1 or 2.")
 
 if __name__ == "__main__":
-    
+    main()
