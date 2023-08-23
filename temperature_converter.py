@@ -18,3 +18,5 @@ def main():
         celsius = float(input("Enter temperature in Celsius: "))
         fahrenheit = celsius_to_fahrenheit(celsius)
         print(f"{celsius}°C is {fahrenheit:.2f}°F" )
+    elif choice == 2:
+        
