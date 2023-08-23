@@ -9,3 +9,7 @@ def celsius_to_fahrenheit(celsius):
 
 def main():
     print ("TEMPERATURE CONVERTER")
+    print("1. Celsius to Fahrenheit")
+    print("2. Fahrenheit to Celsius")
+
+    choice = int(input("Enter a choice : ( 1 or 2 ): "))
