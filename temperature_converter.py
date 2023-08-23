@@ -13,3 +13,8 @@ def main():
     print("2. Fahrenheit to Celsius")
 
     choice = int(input("Enter a choice : ( 1 or 2 ): "))
+
+    if choice == 1:
+        celsius = float(input("Enter temperature in Celsius: "))
+        fahrenheit = celsius_to_fahrenheit(celsius)
+        print(f"{celsius}°C is {fahrenheit:.2f}°F" )
