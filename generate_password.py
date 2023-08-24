@@ -7,3 +7,4 @@ def generate_password(length):
     return password
 
 password_length = int(input("Enter length of the password you want: "))
+generated_password = generate_password(password_length)
