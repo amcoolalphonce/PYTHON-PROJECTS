@@ -8,7 +8,7 @@ greet("Amcool")
 
 def add_numbers(num1, num2)
         result = num1 + num2
-        print("The sum is: " , result)
+        return result
 
 x = 100
 y = 200
