@@ -20,4 +20,6 @@ marks = [100, 25, 75, 50, 125, 200]
 length = len(marks)
 print(length)
 
-#
+#get sum
+marks_sum = sum(marks)
+print(marks_sum)
