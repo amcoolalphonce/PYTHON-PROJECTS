@@ -12,4 +12,5 @@ def add_numbers(num1, num2)
 
 x = 100
 y = 200
-add_numbers(x, y)
+result = add_numbers(x, y)
+print(result)
