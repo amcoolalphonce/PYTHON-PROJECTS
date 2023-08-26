@@ -14,3 +14,10 @@ x = 100
 y = 200
 result = add_numbers(x, y)
 print(result)
+
+marks = [100, 25, 75, 50, 125, 200]
+#get length
+length = len(marks)
+print(length)
+
+#
