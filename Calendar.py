@@ -11,3 +11,4 @@ def main():
         print("Enter a valid positive year.")
 
 def print_calendar(year):
+    cal_year = calendar.TextCalendar(calendar.SUNDAY)
