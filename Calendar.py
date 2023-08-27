@@ -9,3 +9,5 @@ def main():
 
     except ValueError:
         print("Enter a valid positive year.")
+
+def print_calendar(year):
