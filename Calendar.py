@@ -13,4 +13,4 @@ def main():
 def print_calendar(year):
     cal_year = calendar.TextCalendar(calendar.SUNDAY)
     for month in range(1, 13):
-        
+        print("\n"+  cal_year.formatmonth(year, month))
