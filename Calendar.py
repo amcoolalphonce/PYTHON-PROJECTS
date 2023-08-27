@@ -6,3 +6,6 @@ def main():
         if year < 1:
             raise ValueError
         print_calendar(year)
+
+    except ValueError:
+        print("Enter a valid positive year.")
