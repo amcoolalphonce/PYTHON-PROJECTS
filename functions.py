@@ -6,7 +6,7 @@ def greet(name):
 greet("Amcool")
 
 
-def add_numbers(num1, num2)
+def add_numbers(num1, num2):
         result = num1 + num2
         return result
 
