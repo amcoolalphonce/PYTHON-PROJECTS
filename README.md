@@ -16,3 +16,4 @@ Shows the full calendar of a yera when a use renters the year they want to view
 # 12. Largest number
 # 13. Least Common Multiple(LCM)
 # 14. Mathematics fun
+# 15. Prime numbers
