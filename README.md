@@ -8,3 +8,4 @@ Shows the full calendar of a yera when a use renters the year they want to view
 # 4. Digits to words converter
 # 5. Even and Odd  Numbers 
 # 6. Factorial uding reccursion
+# 7. Factorial +
