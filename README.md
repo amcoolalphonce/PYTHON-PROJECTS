@@ -10,3 +10,4 @@ Shows the full calendar of a yera when a use renters the year they want to view
 # 6. Factorial uding reccursion
 # 7. Factorial +
 # 8. Python functions
+# 9. Password generator
