@@ -21,5 +21,6 @@ Shows the full calendar of a yera when a use renters the year they want to view
 # 17. Remove duplicates from a list
 # 18. Temperature Converter
 # 19. To Do List
+Add/ remove tasks
 # 20. Weight Converter
 From kilos to pounds and vice versa
