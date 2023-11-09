@@ -11,3 +11,4 @@ Shows the full calendar of a yera when a use renters the year they want to view
 # 7. Factorial +
 # 8. Python functions
 # 9. Password generator
+# 10. Random numbers generator
