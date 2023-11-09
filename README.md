@@ -18,3 +18,4 @@ Shows the full calendar of a yera when a use renters the year they want to view
 # 14. Mathematics fun
 # 15. Prime numbers
 # 16. Quiz Game
+# 17. Remove duplicates from a list
