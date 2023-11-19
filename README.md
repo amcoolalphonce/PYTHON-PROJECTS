@@ -6,7 +6,7 @@ This repo shows varoius ccodes I wrote during python learning process.
 * [Calendar](#calendar)
 * [Digital clock](#digitl-clock)
 * [Digits to word converter](#digits-to-word-converter)
-* 
+* [Factorial using reccursion](#factorial-using-reccursion)
 ## 1. Age claculator
 Which claculates the age of a user when they enter the  year of their birth
 ## 2. Calendar
@@ -14,7 +14,7 @@ Shows the full calendar of a year when a use renters the year they want to view
 ## 3. Digital clock
 ## 4. Digits to words converter
 ## 5. Even and Odd  Numbers 
-## 6. Factorial uding reccursion
+## 6. Factorial using reccursion
 ## 7. Factorial +
 ## 8. Python functions
 ## 9. Password generator
