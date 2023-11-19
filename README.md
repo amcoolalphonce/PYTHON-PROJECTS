@@ -9,17 +9,17 @@ Shows the full calendar of a year when a use renters the year they want to view
 ## 5. Even and Odd  Numbers 
 ## 6. Factorial uding reccursion
 ## 7. Factorial +
-# 8. Python functions
-# 9. Password generator
-# 10. Random numbers generator
-# 11. Guessing game
-# 12. Largest number
-# 13. Least Common Multiple(LCM)
-# 14. Mathematics fun
-# 15. Prime numbers
-# 16. Quiz Game
-# 17. Remove duplicates from a list
-# 18. Temperature Converter
+## 8. Python functions
+## 9. Password generator
+## 10. Random numbers generator
+## 11. Guessing game
+## 12. Largest number
+## 13. Least Common Multiple(LCM)
+## 14. Mathematics fun
+## 15. Prime numbers
+## 16. Quiz Game
+## 17. Remove duplicates from a list
+## 18. Temperature Converter
 # 19. To Do List
 # 20. Weight Converter
 From kilos to pounds and vice versa
