@@ -8,6 +8,7 @@ This repo shows varoius ccodes I wrote during python learning process.
 * [Digits to word converter](#digits-to-word-converter)
 * [Factorial using recursion](#factorial-using-reccursion)
 * [Factorial +](#factorial-+)
+* [Python functions](#python-functions)
 ## 1. Age claculator
 Which claculates the age of a user when they enter the  year of their birth
 ## 2. Calendar
