@@ -1,10 +1,11 @@
 # PYTHON PROJECTS
-### ABOUT
+## ABOUT
 This repo shows varoius ccodes I wrote during python learning process.
 # Table of Contents
 * [Age calculator](#age-calculator)
 * [Calendar](#calendar)
 * [Digital clock](#digitl-clock)
+* [Digits to word converter](#digits-to-word-converter)
 * 
 ## 1. Age claculator
 Which claculates the age of a user when they enter the  year of their birth
