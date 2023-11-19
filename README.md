@@ -6,9 +6,9 @@ Which claculates the age of a user when they enter the  year of their birth
 Shows the full calendar of a year when a use renters the year they want to view
 ## 3. Digital clock
 ## 4. Digits to words converter
-# 5. Even and Odd  Numbers 
-# 6. Factorial uding reccursion
-# 7. Factorial +
+## 5. Even and Odd  Numbers 
+## 6. Factorial uding reccursion
+## 7. Factorial +
 # 8. Python functions
 # 9. Password generator
 # 10. Random numbers generator
