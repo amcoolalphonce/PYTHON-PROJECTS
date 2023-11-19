@@ -3,7 +3,7 @@
 This repo shows varoius ccodes I wrote during python learning process.
 # Table of Contents
 * [Age calculator](#age-calculator)
-* 
+* [Digital clock](#digitl-clock)
 ## 1. Age claculator
 Which claculates the age of a user when they enter the  year of their birth
 ## 2. Calendar
