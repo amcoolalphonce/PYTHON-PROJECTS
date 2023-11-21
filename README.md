@@ -14,7 +14,8 @@ This repo shows varoius ccodes I wrote during python learning process.
 * [Guessing game](#guessing-game)
 * [Largest number](#largest-number)
 * [Least Common Multiple(LCM) ](#least-common-multiple)
-* [Mathematics fun]
+* [Mathematics fun](#mathematics-fun)
+* 
 ## 1. Age claculator
 Which claculates the age of a user when they enter the  year of their birth
 ## 2. Calendar
