@@ -16,7 +16,7 @@ This repo shows varoius ccodes I wrote during python learning process.
 * [Least Common Multiple(LCM) ](#least-common-multiple)
 * [Mathematics fun](#mathematics-fun)
 * [Prime numbers](#prime-numbers)
-* [Remove duplicates]
+* [Remove duplicates](#remove-duplicates-from-a-list)
 ## 1. Age claculator
 Which claculates the age of a user when they enter the  year of their birth
 ## 2. Calendar
