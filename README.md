@@ -13,7 +13,7 @@ This repo shows varoius ccodes I wrote during python learning process.
 * [Random numbers generator](#random-numbers-generator)
 * [Guessing game](#guessing-game)
 * [Largest number](#largest-number)
-* [Least Common Multiple]
+* [Least Common Multiple](#least-common-multiple)
 ## 1. Age claculator
 Which claculates the age of a user when they enter the  year of their birth
 ## 2. Calendar
