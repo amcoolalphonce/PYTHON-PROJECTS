@@ -11,7 +11,7 @@ This repo shows varoius ccodes I wrote during python learning process.
 * [Python functions](#python-functions)
 * [Password generator](#password-generator)
 * [Random numbers generator](#random-numbers-generator)
-* [Guessing game]
+* [Guessing game](#guessing-game)
 ## 1. Age claculator
 Which claculates the age of a user when they enter the  year of their birth
 ## 2. Calendar
