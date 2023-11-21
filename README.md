@@ -22,7 +22,7 @@ This repo shows varoius ccodes I wrote during python learning process.
 * [To do list](#to-do-list)
 * [Weight Converter](#weight-converter)
 
-
+***
 ## 1. Age claculator
 Which claculates the age of a user when they enter the  year of their birth
 ## 2. Calendar
