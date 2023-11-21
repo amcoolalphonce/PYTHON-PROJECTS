@@ -10,7 +10,8 @@ This repo shows varoius ccodes I wrote during python learning process.
 * [Factorial +](#factorial-+)
 * [Python functions](#python-functions)
 * [Password generator](#password-generator)
-* [Random numbers](#random-numbers)
+* [Random numbers generator](#random-numbers)
+* 
 ## 1. Age claculator
 Which claculates the age of a user when they enter the  year of their birth
 ## 2. Calendar
