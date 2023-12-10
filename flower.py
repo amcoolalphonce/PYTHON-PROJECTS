@@ -45,3 +45,8 @@ turtle.left (180)
 turtle.circle (90,40)
 turtle.circle (-80,98)
 turtle.setheading (-83)
+
+turtle.fd (30)
+turtle.left (90)
+turtle.fd (25)
+turtle.left (45)
