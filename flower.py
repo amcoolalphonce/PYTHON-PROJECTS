@@ -65,3 +65,6 @@ turtle.fd (80)
 
 turtle.right (90)
 turtle.right (45)
+turtle.fillcolor ("green")
+turtle.begin_fill ()
+turtle.circle (80,90)
