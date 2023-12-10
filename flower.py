@@ -63,4 +63,5 @@ turtle.fd (85)
 turtle.left (90)
 turtle.fd (80)
 
-
+turtle.right (90)
+turtle.right (45)
