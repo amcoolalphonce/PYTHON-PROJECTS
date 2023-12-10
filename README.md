@@ -7,6 +7,7 @@ This repo shows varoius ccodes I wrote during python learning process.
 * [Calendar](#calendar)
 * [Digital clock](#digitl-clock)
 * [Digits to word converter](#digits-to-word-converter)
+* [Flower](#flower)
 * [Factorial using recursion](#factorial-using-reccursion)
 * [Factorial +](#factorial-+)
 * [Python functions](#python-functions)
