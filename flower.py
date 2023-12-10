@@ -40,3 +40,6 @@ turtle.circle (75,105)
 turtle.setheading (60)
 turtle.circle (80,98)
 turtle.circle (-90,40)
+
+turtle.left (180)
+turtle.circle (90,40)
