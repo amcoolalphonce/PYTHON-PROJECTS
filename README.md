@@ -42,9 +42,9 @@ Shows the full calendar of a year when a use renters the year they want to view
 ## 14. Least Common Multiple(LCM)
 ## 15. Mathematics fun
 ## 16. Prime numbers
-## 16. Quiz Game
-## 17. Remove duplicates from a list
-## 18. Temperature Converter
-## 19. To Do List
-## 20. Weight Converter
+## 17. Quiz Game
+## 18. Remove duplicates from a list
+## 19. Temperature Converter
+## 20. To Do List
+## 21. Weight Converter
 From kilos to pounds and vice versa
