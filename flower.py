@@ -32,3 +32,7 @@ turtle.circle (150,80)
 turtle.left (50)
 turtle.circle (150,90)
 turtle.end_fill ()
+
+turtle.left (150)
+turtle.circle (-90,70)
+turtle.left (20)
