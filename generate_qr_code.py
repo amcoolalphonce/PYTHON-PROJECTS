@@ -14,4 +14,4 @@ url = pyqrcode.create(github)
 #create and name save the svg file nming it "myqr.svg"
 url.svg("myqr", scale = 8)
 
-#create and save the png fole
+#create and save the png file naming it "myqr.png"
