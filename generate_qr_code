@@ -2,3 +2,4 @@
 # pip install pypng  to save image in png
 
 import pyqrcode
+import png
