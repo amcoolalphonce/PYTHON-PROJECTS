@@ -15,4 +15,4 @@ url = pyqrcode.create(github)
 url.svg("myqr", scale = 8)
 
 #create and save the png file naming it "myqr.png"
-url.png('myqr')
+url.png('myqr', scale = 6)
