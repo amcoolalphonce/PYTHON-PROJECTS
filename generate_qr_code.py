@@ -9,3 +9,4 @@ from pyqrcode import QRCode
 github = "github.com/amcoolalphonce"
 
 #generate QR Code
+url = pyqrcode.create()
