@@ -11,4 +11,4 @@ github = "github.com/amcoolalphonce"
 #generate QR Code
 url = pyqrcode.create(github)
 
-#create and name save the svg 
+#create and name save the svg file nming it "myqr.svg"
