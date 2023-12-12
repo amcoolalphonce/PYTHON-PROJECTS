@@ -4,3 +4,5 @@
 import pyqrcode
 import png
 from pyqrcode import QRCode
+
+#a string to represent the QR code
