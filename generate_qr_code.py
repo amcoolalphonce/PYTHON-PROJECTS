@@ -7,3 +7,4 @@ from pyqrcode import QRCode
 
 #a string to represent the QR code
 github = "github.com/amcoolalphonce"
+
