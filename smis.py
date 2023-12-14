@@ -31,3 +31,6 @@ class StudentManagementSystem:
                 print("All students")
                 for student_id, student_info in self.students.items():
                         print(f'Student ID: {student_id}, Name : {student_info['Name'] }')
+
+
+#USAGE OF THESE FUNCTIONS IS AS ILLUSTRATED BELOW
