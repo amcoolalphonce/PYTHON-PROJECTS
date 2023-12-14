@@ -10,3 +10,7 @@ class StudentManagementSystem:
                         student_info = self.students[student_id]
                         if name :
                                 student_info['Nmae'] = name
+                        if age:
+                                student_info['Age'] = age
+                        if grade:
+                                student_info['Grade'] = grade
