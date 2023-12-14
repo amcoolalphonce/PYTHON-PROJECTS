@@ -20,4 +20,4 @@ class StudentManagementSystem:
         
         def delete_student(self, student_id):
                 if student_id in self.students:
-                        
+                        del self.students[student_id]
