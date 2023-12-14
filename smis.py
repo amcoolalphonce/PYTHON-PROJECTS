@@ -34,3 +34,4 @@ class StudentManagementSystem:
 
 
 #USAGE OF THESE FUNCTIONS IS AS ILLUSTRATED BELOW
+student_system = StudentManagementSystem()
