@@ -18,4 +18,6 @@ class StudentManagementSystem:
                                 print(f'Student with ID {student_id} updated successfully.')
 
         
-        def delete_student(self, student_id)
+        def delete_student(self, student_id):
+                if student_id in self.students:
+                        
