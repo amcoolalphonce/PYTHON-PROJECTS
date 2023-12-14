@@ -16,3 +16,6 @@ class StudentManagementSystem:
                                 student_info['Grade'] = grade
                         else:
                                 print(f'Student with ID {student_id} updated successfully.')
+
+        
+        def delete_student(self, student_id)
