@@ -29,3 +29,4 @@ class StudentManagementSystem:
 
         def display_all_students(self):
                 print("All students")
+                for student_id, student_info in self.students.items():
