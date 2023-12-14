@@ -14,6 +14,7 @@ class StudentManagementSystem:
                                 student_info['Age'] = age
                         if grade:
                                 student_info['Grade'] = grade
+                        print(f'Student with ID {student_id} updated successfully.')
                         else:
                                 print(f'Student with ID {student_id} updated successfully.')
 
