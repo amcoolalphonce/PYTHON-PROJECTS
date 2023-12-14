@@ -41,3 +41,7 @@ student_system.add_student(102, 'Jane Smith', 17, 'B')
 
 student_system.display_all_students()
 
+student_system.view_student(101)
+
+student_system.update_student(101, age=19)
+
