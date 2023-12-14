@@ -47,3 +47,6 @@ student_system.update_student(101, age=19)
 
 student_system.view_student(101)
 
+student_system.delete_student(102)
+
+student_system.display_all_students()
