@@ -25,3 +25,6 @@ class StudentManagementSystem:
                         print(f'Student with ID {student_id} deleted successfully')
                 else:
                         print(f'Student with ID {student_id} not found.')
+
+
+        def display_all_students(self)
