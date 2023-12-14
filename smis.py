@@ -37,4 +37,5 @@ class StudentManagementSystem:
 student_system = StudentManagementSystem()
 
 student_system.add_student(101, 'John Doe', 18, 'A')
+student_system.add_student(102, 'Jane Smith', 17, 'B')
 
