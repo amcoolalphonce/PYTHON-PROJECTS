@@ -45,3 +45,5 @@ student_system.view_student(101)
 
 student_system.update_student(101, age=19)
 
+student_system.view_student(101)
+
