@@ -22,3 +22,6 @@ class StudentManagementSystem:
         def delete_student(self, student_id):
                 if student_id in self.students:
                         del self.students[student_id]
+                        print(f'Student with ID {student_id} deleted successfully')
+                else:
+                        print(f'Student with ID {student_id} not found.')
