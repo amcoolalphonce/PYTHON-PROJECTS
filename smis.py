@@ -35,3 +35,6 @@ class StudentManagementSystem:
 
 #USAGE OF THESE FUNCTIONS IS AS ILLUSTRATED BELOW
 student_system = StudentManagementSystem()
+
+student_system.add_student(101, 'John Doe', 18, 'A')
+
