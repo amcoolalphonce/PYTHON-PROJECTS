@@ -30,3 +30,4 @@ class StudentManagementSystem:
         def display_all_students(self):
                 print("All students")
                 for student_id, student_info in self.students.items():
+                        print(f'Student ID: {student_id}, Name : {student_info['Name'] }')
