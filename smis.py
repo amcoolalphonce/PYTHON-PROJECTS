@@ -27,4 +27,5 @@ class StudentManagementSystem:
                         print(f'Student with ID {student_id} not found.')
 
 
-        def display_all_students(self)
+        def display_all_students(self):
+                print("All students")
