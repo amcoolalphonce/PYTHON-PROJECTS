@@ -6,3 +6,5 @@ def update_time():
   root.after(1000, update_time)
 
 root = tk.Tk()
+root.tile("DIGITAL CLOCK")
+clock_label = tk.Label(root, text="", font=("Helvetica", 48))
