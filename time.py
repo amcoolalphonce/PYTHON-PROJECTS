@@ -8,3 +8,6 @@ def update_time():
 root = tk.Tk()
 root.tile("DIGITAL CLOCK")
 clock_label = tk.Label(root, text="", font=("Helvetica", 48))
+clock_label.pack(padx=20, pady=20)
+update_time()
+root.mainloop()
