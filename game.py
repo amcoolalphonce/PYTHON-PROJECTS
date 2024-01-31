@@ -10,3 +10,10 @@ if answer.lower()=='yes':
         print('correct')
     else:
         print('Wrong Answer :(')
+
+    answer=input('Question 2: Do you follow any author on AskPython? ')
+    if answer.lower()=='yes':
+        score += 1
+        print('correct')
+    else:
+        print('Wrong Answer :(')
