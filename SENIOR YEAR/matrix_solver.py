@@ -18,3 +18,11 @@ for i in range(row - 1):
     if pivot_row == row:
         print("No unique solution exists")
         exit()
+        
+    if pivot_row != i:  
+        matrix[i], matrix[pivot_row] = matrix[pivot_row], matrix[i]
+
+    for j in range(i + 1, row):  
+        multiplier = matrix[j][i] / matrix[i][i]
+        for k in range(i, column):
+            matrix[j][k] -= multiplier * matrix[i][k]
