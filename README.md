@@ -48,3 +48,8 @@ Shows the full calendar of a year when a use renters the year they want to view
 ## 20. To Do List
 ## 21. Weight Converter
 From kilos to pounds and vice versa
+***
+Covnverting the .py files to exe files
+* pip install pyinstaller
+* pyinstaller --onefile --windowed clock.py
+
